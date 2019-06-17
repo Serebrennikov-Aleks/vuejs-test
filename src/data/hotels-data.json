@@ -1,0 +1,41 @@
+[{
+    "uuid" : "0248058a-27e4-11e6-ace6-a9876eff01b3",
+    "name" : "Motif Seattle",
+    "price": "250"
+  }, {
+    "uuid" : "024bd61a-27e4-11e6-ad95-35ed01160e57",
+    "name" : "The Westin Seattle",
+    "price": "125.45"
+  }, {
+    "uuid" : "024fcdba-27e4-11e6-af44-cd4c8e537e9c",
+    "name" : "Sheraton Seattle Hotel",
+    "price": "340"
+  }, {
+    "uuid" : "0253773a-27e4-11e6-8ffe-278d3b0d044c",
+    "name" : "The Edgewater - A Noble House Hotel",
+    "price": "6567"
+  }, {
+    "uuid" : "025720ba-27e4-11e6-8744-efc6f2251051",
+    "name" : "Hotel Max, a Provenance Hotel",
+    "price": "564"
+  }, {
+    "uuid" : "025b3f6a-27e4-11e6-80d7-1ba3f907ab71",
+    "name" : "Hotel Monaco Seattle, a Kimpton Hotel",
+    "price": "6556"
+  }, {
+    "uuid" : "025f5e1a-27e4-11e6-a36c-9fede5552112",
+    "name" : "Hotel Deca - A Noble House Hotel",
+    "price": "643"
+  }, {
+    "uuid" : "026355c4-27e4-11e6-b3f9-09f86925339f",
+    "name" : "W Seattle",
+    "price": "10"
+  }, {
+    "uuid" : "0267c28a-27e4-11e6-ab3b-5f1a4c39ef62",
+    "name" : "Hotel Andra",
+    "price": "653"
+  }, {
+    "uuid" : "026ccbae-27e4-11e6-afa7-536abd83599c",
+    "name" : "The Maxwell Hotel - Pineapple Hospitality",
+    "price": "6565"
+  }]
