@@ -1,18 +1,14 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <MainPage msg="Welcome to Hotels"/>
+    <router-view />
   </div>
 </template>
 
 <script>
-import MainPage from './components/Main.vue'
 
 export default {
-  name: 'app',
-  components: {
-    MainPage
-  }
+  name: 'app'
 }
 </script>
 
